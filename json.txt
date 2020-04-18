@@ -1,3 +1,5 @@
+{"name": "json"}
+id = "1"
 var gvEnn = [
 {
 "id": "1",
@@ -5,3 +7,4 @@ var gvEnn = [
 "name": "NULL",
 "visible": "1"
 },
+];
